@@ -2,3 +2,4 @@ App version 1.0
 Rolling out the first version
 just for git
 1.Call of Duty 
+1.Fav_Movie
