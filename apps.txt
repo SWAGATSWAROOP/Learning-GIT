@@ -1,3 +1,4 @@
 App version 1.0 
 Rolling out the first version
-just for git 
+just for git
+1.Fav_Movie 
